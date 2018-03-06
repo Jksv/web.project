@@ -2,7 +2,7 @@
     background: black;
 }
   h1 {
-  Color: Blue;
+  Color: red;
   text-transform: uppercase;
   font-style: oblique;
   text-align: center;
@@ -12,7 +12,7 @@
   font-family: courier;
 }
 h2 {
-  Color: grey;
+  Color: pink;
   text-align: center;
   text-transform: uppercase;
   font-size: 2em;

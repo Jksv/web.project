@@ -1,0 +1,35 @@
+  html{
+    background: black;
+}
+  h1 {
+  Color: Blue;
+  text-transform: uppercase;
+  font-style: oblique;
+  text-align: center;
+  font-weight: lighter;
+  font-size: 50px;
+  padding-top: 1em;
+  font-family: courier;
+}
+h2 {
+  Color: grey;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2em;
+  font-style: bold;
+}
+p {
+  Color: white;
+  text-align: center;
+  text-decoration: ;
+}
+img{
+    align-items: center;
+}
+ul{
+  color: white;
+}
+ol{
+  color:white;
+}
+.Change{color: red; text687;}
